@@ -1,0 +1,36 @@
+html {
+background-color:rgb(105, 118, 123);
+}
+
+body {
+    margin: 0;
+}
+
+.page-title {
+    margin: 0;
+}
+
+.page-header {
+     background-color:rgb(42, 56, 58);
+    padding: 30px;
+    color:rgb(177, 190, 196);
+    margin-bottom: 20px;
+    font-family: 'JetBrains Mono', 'Quantico', monospace;
+}
+.nav-links {
+    color:rgb(177, 190, 196);
+}
+
+.main-content {
+    background-color: rgb(61, 75, 85);
+    padding: 30px;
+    color:rgb(177, 190, 196);
+}
+
+.site-footer {
+    background-color:rgb(76, 99, 106);
+    padding: 30px;
+    color:rgb(177, 190, 196);
+    margin-top: 20px;
+}
+
