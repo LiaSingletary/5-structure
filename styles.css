@@ -21,6 +21,20 @@ body {
     color:rgb(196, 177, 192);
 }
 
+.nav-links:hover {
+    background-color:rgb(180, 150, 173);
+    color:rgb(58, 42, 58);
+}
+
+.nav-links:active {
+    background-color:rgb(156, 122, 148);
+}
+
+/* this is with the keyboard */
+.nav-links:focus {
+    font-size:30px;
+}   
+
 .main-content {
     background-color: rgb(85, 61, 85);
     padding: 30px;
